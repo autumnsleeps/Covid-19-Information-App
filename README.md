@@ -13,4 +13,4 @@ Info Tab - where you can search for total cases, death cases and recovered cases
 
 <img width="346" alt="4" src="https://user-images.githubusercontent.com/51875835/80203895-18d0d180-8652-11ea-895e-6ff4c994fb13.png">   <img width="349" alt="5" src="https://user-images.githubusercontent.com/51875835/80203915-22f2d000-8652-11ea-808d-877902117cf9.png">
 
-Some search results example
+Some search results examples
